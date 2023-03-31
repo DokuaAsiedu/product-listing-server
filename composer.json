@@ -1,0 +1,11 @@
+{
+    "name": "dokua/product-listing",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dokua Asiedu",
+            "email": "asiedudokua@gmail.com"
+        }
+    ],
+    "require": {}
+}
